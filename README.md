@@ -51,11 +51,11 @@ The main goal is to develop a classifier which can accurately classify a flower 
 
 When going through the code, there are basically 5 stages involved: 
 
-:heavy_check_mark: Obtain a proper dataset for the task.;
-:heavy_check_mark: Analyze and visualize the dataset, and try to gain an intuition about the model you should use.;
-:heavy_check_mark: Convert the data into an usable form, and then preprocess it.;
-:heavy_check_mark: Build the model, and evaluate it.;
-:heavy_check_mark: Check where the model is falling short, and keep improving it.;
+:heavy_check_mark: Obtain a proper dataset for the task;\
+:heavy_check_mark: Analyze and visualize the dataset, and try to gain an intuition about the model you should use;\
+:heavy_check_mark: Convert the data into an usable form, and then preprocess it;\
+:heavy_check_mark: Build the model, and evaluate it;\
+:heavy_check_mark: Check where the model is falling short, and keep improving it;
 
 ## :rocket: Technologies ##
 
